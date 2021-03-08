@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91c39a11.chunk.css",
+    "main.js": "/static/js/main.6a2b487e.chunk.js",
+    "main.js.map": "/static/js/main.6a2b487e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7218834d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7218834d.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.ff563f44.chunk.js": "/static/js/2.ff563f44.chunk.js",
+    "static/js/2.ff563f44.chunk.js.map": "/static/js/2.ff563f44.chunk.js.map",
+    "static/js/3.67df1fe2.chunk.js": "/static/js/3.67df1fe2.chunk.js",
+    "static/js/3.67df1fe2.chunk.js.map": "/static/js/3.67df1fe2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.91c39a11.chunk.css.map": "/static/css/main.91c39a11.chunk.css.map",
+    "static/js/2.ff563f44.chunk.js.LICENSE.txt": "/static/js/2.ff563f44.chunk.js.LICENSE.txt",
+    "static/media/Valentine.58d33071.jpg": "/static/media/Valentine.58d33071.jpg",
+    "static/media/other.c3383f2f.jpg": "/static/media/other.c3383f2f.jpg",
+    "static/media/prime.973c5d63.png": "/static/media/prime.973c5d63.png",
+    "static/media/prime30days.3190cc7e.jpg": "/static/media/prime30days.3190cc7e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7218834d.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ff563f44.chunk.js",
+    "static/css/main.91c39a11.chunk.css",
+    "static/js/main.6a2b487e.chunk.js"
+  ]
+}
